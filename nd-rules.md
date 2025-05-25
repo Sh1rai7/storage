@@ -142,4 +142,4 @@ Version 2.1.0 / 2025.05.25 / by Sh1rai7
 ***
 
 ### 持续更新地址
-https://www.github.com/Sh1rai7/storage/nd-rules.md
+https://www.github.com/Sh1rai7/super-big-nd-chats/nd-rules.md
