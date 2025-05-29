@@ -154,7 +154,7 @@ Version 2.1.1 / 2025.05.29 / by Sh1rai7
 
         ament -t "标题" -d "描述" @头像拥有者
 
-    例如 `ament -t "你好" -d "这里是白井" @砂原 白井` 的输出是
+    例如 `ament -t "你好" -d "这里是白井" @砂原 白井` 的输出是<br>
     <img src="/nd-pics/ament.jpg" width="300">
 
 -   请使用双引号
@@ -166,7 +166,7 @@ Version 2.1.1 / 2025.05.29 / by Sh1rai7
 
         jrysprpr
 
-    输出为
+    输出为<br>
     <img src="/nd-pics/jrysprpr.jpg" height="300">
  
 -   背景图片为随机出现
